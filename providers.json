@@ -1,0 +1,116 @@
+{
+  "ARK Invest": {
+    "aliases": ["ark"],
+    "etfs": [
+      {"ticker": "ARKK", "name": "ARK Innovation ETF"},
+      {"ticker": "ARKW", "name": "ARK Next Generation Internet ETF"},
+      {"ticker": "ARKG", "name": "ARK Genomic Revolution ETF"},
+      {"ticker": "ARKF", "name": "ARK Fintech Innovation ETF"},
+      {"ticker": "ARKX", "name": "ARK Space Exploration & Innovation ETF"},
+      {"ticker": "PRNT", "name": "3D Printing ETF"},
+      {"ticker": "IZRL", "name": "ARK Israel Innovative Technology ETF"}
+    ]
+  },
+  "Global X": {
+    "aliases": ["globalx", "global x"],
+    "etfs": [
+      {"ticker": "BOTZ", "name": "Global X Robotics & AI ETF"},
+      {"ticker": "QYLD", "name": "Global X Nasdaq 100 Covered Call ETF"},
+      {"ticker": "DRIV", "name": "Global X Autonomous & EV ETF"},
+      {"ticker": "CLOU", "name": "Global X Cloud Computing ETF"},
+      {"ticker": "LIT",  "name": "Global X Lithium & Battery Tech ETF"},
+      {"ticker": "BKCH", "name": "Global X Blockchain ETF"},
+      {"ticker": "SNSR", "name": "Global X Internet of Things ETF"},
+      {"ticker": "HERO", "name": "Global X Video Games & Esports ETF"},
+      {"ticker": "GNOM", "name": "Global X Genomics & Biotechnology ETF"},
+      {"ticker": "CTEC", "name": "Global X CleanTech ETF"},
+      {"ticker": "XYLD", "name": "Global X S&P 500 Covered Call ETF"},
+      {"ticker": "RYLD", "name": "Global X Russell 2000 Covered Call ETF"},
+      {"ticker": "POTX", "name": "Global X Cannabis ETF"},
+      {"ticker": "EDOC", "name": "Global X Telemedicine & Digital Health ETF"},
+      {"ticker": "MILN", "name": "Global X Millennials Consumer ETF"}
+    ]
+  },
+  "VanEck": {
+    "aliases": ["vaneck", "van eck"],
+    "etfs": [
+      {"ticker": "SMH",  "name": "VanEck Semiconductor ETF"},
+      {"ticker": "GDX",  "name": "VanEck Gold Miners ETF"},
+      {"ticker": "GDXJ", "name": "VanEck Junior Gold Miners ETF"},
+      {"ticker": "ESPO", "name": "VanEck Video Gaming and eSports ETF"},
+      {"ticker": "CLNR", "name": "VanEck Low Carbon Energy ETF"},
+      {"ticker": "CNBS", "name": "VanEck Cannabis ETF"},
+      {"ticker": "SMHX", "name": "VanEck Fabless Semiconductor ETF"},
+      {"ticker": "MOAT", "name": "VanEck Morningstar Wide Moat ETF"},
+      {"ticker": "GOVZ", "name": "VanEck Long Maturities ETF"},
+      {"ticker": "DAPP", "name": "VanEck Digital Transformation ETF"}
+    ]
+  },
+  "Roundhill": {
+    "aliases": ["roundhill"],
+    "etfs": [
+      {"ticker": "BETZ", "name": "Roundhill Sports Betting & iGaming ETF"},
+      {"ticker": "METV", "name": "Roundhill Ball Metaverse ETF"},
+      {"ticker": "WKND", "name": "Roundhill Weekend ETF"},
+      {"ticker": "BIGB", "name": "Roundhill Big Bank ETF"},
+      {"ticker": "DEEP", "name": "Roundhill Acquirers Deep Value ETF"},
+      {"ticker": "CHAT", "name": "Roundhill Generative AI & Technology ETF"},
+      {"ticker": "MAGS", "name": "Roundhill Magnificent Seven ETF"}
+    ]
+  },
+  "Defiance": {
+    "aliases": ["defiance"],
+    "etfs": [
+      {"ticker": "JEDI", "name": "Defiance Daily Target 2X Long JEDI ETF"},
+      {"ticker": "ISPY", "name": "Defiance S&P 500 Enhanced Options Income ETF"},
+      {"ticker": "DEFI", "name": "Defiance Digital Revolution ETF"},
+      {"ticker": "QTUM", "name": "Defiance Quantum ETF"},
+      {"ticker": "SPYT", "name": "Defiance S&P 500 Target Income ETF"},
+      {"ticker": "QQQT", "name": "Defiance Nasdaq 100 Target Income ETF"}
+    ]
+  },
+  "Procure": {
+    "aliases": ["procure"],
+    "etfs": [
+      {"ticker": "UFO", "name": "Procure Space ETF"}
+    ]
+  },
+  "Direxion": {
+    "aliases": ["direxion"],
+    "etfs": [
+      {"ticker": "MOON", "name": "Direxion Moonshot Innovators ETF"},
+      {"ticker": "HERO", "name": "Direxion Daily Video Game & Esports Bull 2X ETF"},
+      {"ticker": "MSFO", "name": "Direxion Daily MSFT Bull 2X Shares"},
+      {"ticker": "AAPU", "name": "Direxion Daily AAPL Bull 2X Shares"},
+      {"ticker": "NVDU", "name": "Direxion Daily NVDA Bull 2X Shares"},
+      {"ticker": "TSLL", "name": "Direxion Daily TSLA Bull 2X Shares"},
+      {"ticker": "SOXL", "name": "Direxion Daily Semiconductor Bull 3X Shares"},
+      {"ticker": "TECL", "name": "Direxion Daily Technology Bull 3X Shares"},
+      {"ticker": "TQQQ", "name": "ProShares UltraPro QQQ (similar)"}
+    ]
+  },
+  "First Trust": {
+    "aliases": ["first trust", "firsttrust"],
+    "etfs": [
+      {"ticker": "FDN",  "name": "First Trust Dow Jones Internet Index ETF"},
+      {"ticker": "FTEC", "name": "First Trust Nasdaq Cybersecurity ETF"},
+      {"ticker": "SKYY", "name": "First Trust Cloud Computing ETF"},
+      {"ticker": "ROBO", "name": "First Trust ROBO Global Robotics & AI ETF"},
+      {"ticker": "CIBR", "name": "First Trust NASDAQ Cybersecurity ETF"},
+      {"ticker": "LEGR", "name": "First Trust Indxx Innovative Transaction ETF"},
+      {"ticker": "IPAY", "name": "First Trust Nasdaq Financial Technology ETF"}
+    ]
+  },
+  "ProShares": {
+    "aliases": ["proshares"],
+    "etfs": [
+      {"ticker": "TQQQ", "name": "ProShares UltraPro QQQ"},
+      {"ticker": "SQQQ", "name": "ProShares UltraPro Short QQQ"},
+      {"ticker": "UPRO", "name": "ProShares UltraPro S&P500"},
+      {"ticker": "SPXU", "name": "ProShares UltraPro Short S&P500"},
+      {"ticker": "UVXY", "name": "ProShares Ultra VIX Short-Term Futures ETF"},
+      {"ticker": "SOXS", "name": "Direxion Daily Semiconductor Bear 3X"},
+      {"ticker": "PSQ",  "name": "ProShares Short QQQ"}
+    ]
+  }
+}
